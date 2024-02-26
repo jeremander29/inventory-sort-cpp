@@ -1,8 +1,5 @@
 //Jeremiah Ibarra
-//CS132
-//Mr. MacKay
-//Project 2
-//11.07.2023
+//inventorySort
 #include<iostream>
 #include<fstream>
 
@@ -189,8 +186,6 @@ int main()
 		}
 	}
 
-	cout << endl << "LET THIS BE THE HOUR WHEN WE DRAW SWORDS TOGETHER. FELL DEEDS AWAKE." << endl;
-	cout << "NOW FOR WRATH, NOW FOR RUIN, AND THE RED DAWN. FORTH EORLINGAS!" << endl << endl;
 	
 	return 0;
 
