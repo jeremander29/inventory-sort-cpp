@@ -1,8 +1,5 @@
 //Jeremiah Ibarra
-//CS132
-//Mr. MacKay
-//Project 2
-//11.07.2023
+//inventorySort
 #include <iostream>
 using namespace std;
 
